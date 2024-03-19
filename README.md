@@ -289,8 +289,10 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![image](https://github.com/SRINIDHISENTHILNATHAN/MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24EXP2/assets/121373170/d15161b1-8692-4b8b-9d79-5c38df626e22)
-
+### FOR FLOAT DATA
+![image](https://github.com/SRINIDHISENTHILNATHAN/MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24EXP2/assets/121373170/d70cb677-4d9d-466f-9ad0-62ade0dc1c47)
+### FOR INT DATA
+![image](https://github.com/SRINIDHISENTHILNATHAN/MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24EXP2/assets/121373170/583b4f72-9c0c-48cd-80a2-dd965d51fec0)
 
 ## RESULT:
-The host took 0.937444 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.142601 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took  0.843965 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.985335 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
